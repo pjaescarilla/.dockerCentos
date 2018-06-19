@@ -1,0 +1,1 @@
+2018/06/19 07:38:55 [emerg] 1#1: host not found in upstream "app:9000" in /etc/nginx/nginx.conf:26
